@@ -1,0 +1,181 @@
+#+STARTUP: overview 
+* Romantic Era 
+** John Keats, 1795-1821 
+- British Romantic poet. One of the main figures of the second
+  generation of Romantic poets (along with Lord Byron & Percy Bysshe
+  Shelley). Delivering strong emotional and sensual accentuation
+  through natural imagery.
+*** Ode to a Nightingale 
+- Content 
+#+BEGIN_SRC org
+  My heart aches, and a drowsy numbness pains 
+  My sense, as though of hemlock I had drunk, 
+  Or emptied some dull opiate to the drains 
+  One minute past, and Lethe-wards had sunk 
+  ’Tis not through envy of thy happy lot, 
+  But being too happy in thine happiness, - 
+  That thou, light-winged Dryad of the trees, 
+  In some melodious plot 
+  Of beechen green and shadows numberless, 
+  Singest of summer in full-throated ease. 
+  O, for a draught of vintage! that hath been 
+  Cool’d a long age in the deep-delved earth, 
+  Tasting of Flora and the country green, 
+  Dance, and Provencal song, and sunburnt mirth! 
+  O for a beaker full of the warm South, 
+  Full of the true, the blushful Hippocrene, 
+  With beaded bubbles winking at the brim, 
+  And purple-stained mouth; 
+  That I might drink, and leave the world unseen, 
+  And with thee fade away into the forest dim: 
+
+  Fade far away, dissolve, and quite forget 
+  What thou among the leaves hast never known, 
+  The weariness, the fever, and the fret 
+  Here, where men sit and hear each other groan; 
+  Where palsy shakes a few, sad, last gray hairs, 
+  Where youth grows pale, and spectre-thin, and dies; 
+  Where but to think is to be full of sorrow, 
+  And leaden-eyed despairs, 
+  Where Beauty cannot keep her lustrous eyes, 
+  Or new Love pine at them beyond to-morrow. 
+
+  Away! away! for I will fly to thee, 
+  Not charioted by Bacchus and his pards, 
+  But on the viewless wings of Poesy, 
+  Though the dull brain perplexes and retards: 
+  Already with thee! tender is the night, 
+  And haply the Queen-Moon is on her throne, 
+  Cluster’d around by all her starry Fays; 
+  But here there is no light, 
+  Save what from heaven is with the breezes blown 
+  Though verdurous glooms and winding mossy ways. 
+
+  I cannot see what flowers are at my feet, 
+  Nor what soft incense hangs upon the boughs, 
+  But, in embalmed darkness, guess each sweet 
+  Wherewith the seasonable month endows 
+  The grass, the thicket, and the fruit-tree wild; 
+  White hawthorn, and the pastoral eglantine; 
+  Fast fading violets cover’d up in leaves; 
+  And mid-May’s eldest child, 
+  The coming musk-rose, full of dewy wine, 
+  The murmurous haunt of flies on summer eves. 
+
+  Darkling I listen; and, for many a time 
+  I have been half in love with easeful Death, 
+  Call’d him soft names in many a mused rhyme, 
+  To take into the air my quiet breath; 
+  Now more than ever seems it rich to die, 
+  To cease upon the midnight with no pain, 
+  While thou art pouring forth thy soul abroad 
+  In such an ecstasy! 
+  Still wouldst thou sing, and I have ears in vain - 
+  To thy high requiem become a sod. 
+
+  Thou wast not born for death, immortal bird! 
+  No hungry generations tread thee down; 
+  The voice I hear this passing night was heard 
+  In ancient days by emperor and clown: 
+  Perhaps the self-same song that found a path 
+  Through the sad heart of Ruth, when, sick for home, 
+  She stood in tears amid the alien corn; 
+  The same that oft-time hath 
+  Charm’d magic casements, opening on the foam 
+  Of perilous seas, in faery lands forlorn. 
+
+  Forlorn! the very word is like a bell 
+  To toll me back from thee to my sole self! 
+  Adieu! the fancy cannot cheat so well 
+  As she is fam’d to do, deceiving elf. 
+  Adieu! adieu! thy plaintive anthem fades 
+  Past the near meadows, over the still stream, 
+  Up the hill-side; and now ’tis buried deep 
+  In the next valley-glades: 
+  Was it a vision, or a waking dream? 
+  Fled is that music: - Do I wake or sleep?
+#+END_SRC
+- Analysis 
+#+BEGIN_SRC org 
+  ,* Vowel forms - short & long 
+  ,* Sound patterns 
+  ,** double/triple caesuras 
+  ,** A complex reliance on assonance 
+  ,** Less Latin-based words/syntax that reduce the length of words 
+  ,** Words beginning with consonants (esp. ‘b’, ‘p’, ‘v’) used syzygically to create a musical tone 
+#+END_SRC
+*** Sleep and Poetry 
+- Content 
+#+BEGIN_SRC text
+  What is more gentle than a wind in summer? 
+  What is more soothing than the pretty hummer 
+  That stays one moment in an open flower, 
+  And buzzes cheerily from bower to bower? 
+  What is more tranquil than a musk-rose blowing 
+  In a green island, far from all men’s knowing? 
+  More healthful than the leafiness of dales? 
+  More secret than a nest of nightingales? 
+  More serene than Cordelia’s countenance? 
+  More full of visions than a high romance? 
+  What, but thee sleep? Soft closer of our eyes! 
+  Low murmurer of tender lullabies 
+  Light hoverer around our happy pillows! 
+  Wreather of poppy buds, and weeping willows! 
+  Silent entangler of a beauty’s tresses! 
+  Most happy listener! when the morning blesses 
+  Thee for enlivening all the cheerful eyes 
+  That glance so brightly at the new sun-rise.
+#+END_SRC
+- Analysis 
+#+BEGIN_SRC org
+  Though featuring the simplistic form of rhyming couplets, Keats’
+  poetry expresses emotions and stimulating thoughts more inwards by
+  romantic standards
+#+END_SRC
+*** On First Looking into Chapman's Homer 
+- Content
+#+BEGIN_SRC org
+  Much have I travell’d in the realms of gold, 
+  And many goodly states and kingdoms seen; 
+  Round many western islands have I seen 
+  Which bards in fealty to Apollo told 
+  That deep-browed Homer ruled as his demesne; 
+  Yet did I never breathe its pure serene 
+  Till I heard Chapman speak out load and bold: 
+  Then felt I like some watcher of the skies 
+  When a new planet swims into his ken; 
+  Or like stout Cortez when with eagle eyes 
+  He start’d at the Pacific - and all his men 
+  Look’d at each other with a wild surmise - 
+  Silent, upon a peak in Darien.
+#+END_SRC
+- Analysis 
+#+BEGIN_SRC org
+  One of Keats’ most quoted classics as a demonstration of the lasting
+  provocative power of great works of art among an audience of later
+  generations
+#+END_SRC
+* Contemporary America 
+** Robert Frost 
+*** A Late Walk 
+#+BEGIN_SRC org
+  When I go up through the mowing field, 
+  The headless aftermath, 
+  Smooth-laid like thatch with the heavy dew, 
+  Half closes the garden path. 
+
+  And when I come to the garden ground, 
+  The whir of sober birds, 
+  Up from the tangle of withered weeds, 
+  Is sadder than any words. 
+
+  A tree beside the wall stands bare, 
+  But a leaf that lingered brown, 
+  Disturbed, I doubt not, by my thought, 
+  Comes softly rattling down. 
+
+  I end not far from my going forth 
+  By picking the faded blue 
+  Of the last remaining aster flower 
+  To carry again to you.
+#+END_SRC
