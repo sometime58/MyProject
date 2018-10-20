@@ -5,9 +5,89 @@
   generation of Romantic poets (along with Lord Byron & Percy Bysshe
   Shelley). Delivering strong emotional and sensual accentuation
   through natural imagery.
+*** La Belle Dame sans Merci 
+- Content
+#+BEGIN_SRC text
+  O what can ail thee, Knight at arms, 
+  Alone and palely loitering? 
+  The sedge has withered from the Lake 
+  And no birds sing! 
+
+  O what can ail thee, Knight at arms, 
+  So haggard and so woebegone? 
+  The squirrel's granary is full 
+  And the harvest's done. 
+
+  I see a lily on thy brow 
+  With anguish moise and fever dew,
+  And on thy cheeks a fading rose 
+  Fast withereth too. 
+
+  I met a Lady in the Meads, 
+  Full beautiful, a faery's child, 
+  Her hair was long, her foot was light 
+  And her eyes were wild. 
+
+  I made a Garland for her 
+  And bracelets too, and fragrant zone; 
+  She looked at me as she did love 
+  And made sweet moan. 
+
+  I set her on my pacing steed 
+  And nothing else saw all day long, 
+  For sidelong would she bend and sing 
+  A faery's song. 
+
+  She found me roots of relish sweet, 
+  And honey wild, and manna dew, 
+  And sure in language strange she said 
+  'I love thee true.'
+
+  She took me to her elfin grot 
+  And there she wept and sighed full sore, 
+  And there I shut her wild wild eyes 
+  With kisses four. 
+
+  And there she lulled me asleep. 
+  And there I dreamed, Ah woe betide! 
+  The latest dream I ever dreamt 
+  On the cold hill side. 
+
+  I saw pale Kings, and Princes too, 
+  Pale warriors, death-pale were they all; 
+  They cried, 'La belle dame sans merci 
+  Thee hath in thrall!' 
+
+  I saw their starved lips in the gloam 
+  With horrid warning gaped wide, 
+  And i awoke, and found me here 
+  On the cold hill's side. 
+
+  And this is why I sojourn here, 
+  Alone and palely loitering. 
+  Though the sedge is withered from the Lake 
+  And no birds sing. 
+#+END_SRC
+- Analysis 
+#+BEGIN_SRC text
+  ,* Intro 
+  - This is a ballad borrowing the title of the 15th century La Belle Dame
+  sans Mercy by Alain Chartier but not the content. It shows
+  Keats'poetic preoccupation with love and death.
+  ,* Structure 
+  - Twelve stanzas of 4 lines each in a ABCB rhyme scheme. 
+  - Each stanza consists of 3 iambic tetrameter lines followed by a
+    final dimetric line. It gives the ballad a deliberate and slow
+    movement pleasing to the ear. 
+  ,* Style & techniques 
+  - A number of stylistic characters of a ballad, including the
+    simplicity of language,repetition and absence of details.
+  - The wintry, dire landscape builds the settings well for the
+    ill-fated knight's love tragedy.
+#+END_SRC
 *** Ode to a Nightingale 
 - Content 
-#+BEGIN_SRC org
+#+BEGIN_SRC text
   My heart aches, and a drowsy numbness pains 
   My sense, as though of hemlock I had drunk, 
   Or emptied some dull opiate to the drains 
@@ -96,7 +176,7 @@
   Fled is that music: - Do I wake or sleep?
 #+END_SRC
 - Analysis 
-#+BEGIN_SRC org 
+#+BEGIN_SRC text 
   ,* Vowel forms - short & long 
   ,* Sound patterns 
   ,** double/triple caesuras 
@@ -127,14 +207,14 @@
   That glance so brightly at the new sun-rise.
 #+END_SRC
 - Analysis 
-#+BEGIN_SRC org
+#+BEGIN_SRC text
   Though featuring the simplistic form of rhyming couplets, Keats’
   poetry expresses emotions and stimulating thoughts more inwards by
   romantic standards
 #+END_SRC
 *** On First Looking into Chapman's Homer 
 - Content
-#+BEGIN_SRC org
+#+BEGIN_SRC text
   Much have I travell’d in the realms of gold, 
   And many goodly states and kingdoms seen; 
   Round many western islands have I seen 
@@ -150,15 +230,15 @@
   Silent, upon a peak in Darien.
 #+END_SRC
 - Analysis 
-#+BEGIN_SRC org
+#+BEGIN_SRC text
   One of Keats’ most quoted classics as a demonstration of the lasting
   provocative power of great works of art among an audience of later
   generations
 #+END_SRC
 * Contemporary America 
-** Robert Frost 
+** Robert Frost, 1874-1963 
 *** A Late Walk 
-#+BEGIN_SRC org
+#+BEGIN_SRC text
   When I go up through the mowing field, 
   The headless aftermath, 
   Smooth-laid like thatch with the heavy dew, 
@@ -178,4 +258,69 @@
   By picking the faded blue 
   Of the last remaining aster flower 
   To carry again to you.
+#+END_SRC
+** Denise Levertov, 1923-1997 
+- American peot. Born in southeast of England to a Russian father who
+  was a Hasidic Jew. She struggled with her identity among Jewish,
+  German, Welsh and English, and considered herself belonging to none
+  of them fully. This gave her a brand new perspective and a passion
+  for humanitarian politics. 
+- Showing great promise as an young talent in
+  writing, her poems received encouragement from T.S. Elliot at the
+  age of 12. Her first poem was published when she was 17 and her book
+  6 years later. 
+- She stemmed from traditional forms and language and later embraced
+  an American style, inspired by the Black Mountain poets and most
+  importantly William Carlos Williams. Politics and war are major
+  themes in her poetry, along with suffering. She also wrote a great
+  amount of religious-themed poems. 
+- Her first book - The Double Image; Her first American book of
+  poetry that shows her transition of style - Here and Now; Her peom -
+  With Eyes at the Back of Our Heads - established her reputation. 
+*** The Secret 
+#+BEGIN_SRC text
+  Two girls discover
+  the secret of life
+  in a sudden line of
+  peotry.
+
+  I who don't know the
+  secret wrote
+  the line. They
+  told me
+
+  (through a third person)
+  they had found it
+  but not what it was
+  not even
+
+  what line it was. No doubt
+  by now, more than a week
+  later, they have forgotten
+  the secret,
+
+  the line, the name of
+  the poem, I love them
+  for finding what
+  I can't find,
+
+  and for loving me
+  for the line I wrote,
+  and for forgetting it
+  so that
+
+  a thousand times, till death
+  finds them, they may
+  discover it again, in other
+  lines,
+
+  in other
+  happenings. And for
+  wanting to know it,
+  for
+
+  assuming there is
+  such a secret, yes,
+  for that
+  most of all. 
 #+END_SRC
